@@ -1,3 +1,13 @@
 table {
-  border:1px solid black;
-  }
+    width:400px;
+    border-collapse:collapse;
+    padding-left:10px;          
+    vertical-align:top;
+    }
+
+td {
+    border: 1px solid black;
+    }  
+#pageBlockHeading {
+    border: 0px !important;
+    }
